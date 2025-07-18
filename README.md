@@ -83,6 +83,4 @@ Magdalena Inalaf G.
 **Profesor:**  
 César Osses
 
-**Curso / Asignatura:**  
-(Ejemplo: Fundamentos de Programación con JavaScript — puedes modificar esto si sabes el nombre exacto)
 
